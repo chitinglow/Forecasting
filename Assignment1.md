@@ -1,10 +1,3 @@
----
-title: "Forecasting Assignment1"
-author: "Low Chi Ting"
-output: 
-  html_document: 
-    keep_md: yes
----
 The current report is the summary of the ASX all ordinaries pride index from January 2003 to May 2017 in Australia share market.There are three aims for the current report. The first aim is to identify the sesonality of the data set. The second aims is to observe and analyse the trend and seasonal effct on all ordinaries price index. The last aim is to observe and analyse the accurate forecasts for five monts ahead by using this data set.  
 
 The current data set contains 173 observation for the ASX all ordinaries pride index from January 2003 to May 2017 in Australia share market.
